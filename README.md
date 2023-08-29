@@ -1,5 +1,9 @@
 # Projeto02---Previsao_renda
 
+![badge](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
+
+---
+
 ## Elementos importantes:
 
 ![1](https://user-images.githubusercontent.com/96266332/230114724-6d58f664-aaf3-434f-a76c-73b16d5a0e48.png)
